@@ -11,7 +11,6 @@ Hello, welcome to my GitHub profile! My name is Lê Chí Thiện, and I am a pas
 I am a hardware engineer in the team participating in the following competitions:
 
 ## First Prize in RA KHOI 2023 competition at Van Lang University: 
-<img src="https://i.imgur.com/p7afuf1.jpeg" width="1024px"/> 
 <img src="https://i.imgur.com/WTw8cnz.png" width="512px"/>
 <p>Our product is Smart Water Meter. </p>
 <p>This features are:</p>
@@ -34,6 +33,7 @@ I am a hardware engineer in the team participating in the following competitions
 We have created a robot to solve mazes and compete against other teams in the Sumo competition round.
 
 ## Engineering Projects In Community Services 2023:
+<img src="https://i.imgur.com/p7afuf1.jpeg" width="1024px"/> 
 <img src="https://i.imgur.com/11hy9FN.png" width="512px"/>
 
 <p>
