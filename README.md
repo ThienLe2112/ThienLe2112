@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫About Me :
-I love discovering technology all over the world. I have three years of experience in C programming and designing PCBs. Feel free to check out my profile to see what I do.
+Hello, welcome to my GitHub profile! My name is Lê Chí Thiện, and I am a passionate and skilled professional with a strong background in leadership, C programming, and PCB design. With three years of experience in leadership roles and two years of experience in PCB design, I have developed a diverse skill set and a deep understanding of these fields. My professional goal is to become an IoT and AI Engineer. I am fascinated by the potential of the Internet of Things (IoT) and artificial intelligence (AI) to revolutionize industries and improve people's lives. I am eager to contribute my skills and knowledge to projects that involve developing innovative IoT solutions and leveraging AI technologies.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/LCThien12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chi-thien-le-7a2439267/) 
