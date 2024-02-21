@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/ThienLe2112/ThienLe2112/assets/120434264/9246922e-4907-459f-8da4-72f6896ae6eb)![image](https://github.com/ThienLe2112/ThienLe2112/assets/120434264/13d90678-d9ab-4fe2-ad1c-f9b1ce12a79e)### Hi there 👋
 # 💫About Me :
 I love discovering technology from around the world. I have three years of experience in C programming and designing PCBs. Feel free to check out my profile to see what I do.
 
@@ -7,17 +7,51 @@ I love discovering technology from around the world. I have three years of exper
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ThienLe2112&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThienLe2112&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThienLe2112&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+# GitHub Stats :
 ### ✍️Projects
-<img src="https://i.imgur.com/p7afuf1.jpeg" width="512px"/>
-![](Ra khơi)
+I am a hardware engineer on the team participating in the following competitions:
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+# First Prize in RA KHOI 2023 competition at Van Lang University: 
+<img src="https://i.imgur.com/p7afuf1.jpeg" width="512px"/> 
+<img src="https://i.imgur.com/WTw8cnz.png" width="512px"/>
+Our product is Smart Water Meter. 
+This features are:
+-Measure and monitor monthly water consumption.
+-Automatically calculate bills, update real-time data storage, retrieve data, and create water consumption charts by month.
+-Easily monitor, detect water leaks, and regulate water consumption to contribute to the household budget balance.
+-Managers can easily compile statistics, manage, and regulate water allocation for specific residential areas.
 
+# FIBOT 2024 at Industrial University of Hochiminh city: 
+<img src="https://i.imgur.com/bGtuXck.png" width="512px"/>
+<img src="https://i.imgur.com/7Uszw7E.png" width="512px"/>
+<p>
+<a href="https://youtu.be/--CEKkXOXwU">Click to see Maze Solving Robot</a>
+</p>
+<p>
+<a href="https://youtu.be/fAadhP9s74Y">Click to see Sumo Robot</a>
+</p>
+
+We have created a robot to solve mazes and compete against other teams in the Sumo competition round.
+
+# Engineering Projects In Community Services 2023:
+<img src="https://i.imgur.com/11hy9FN.png" width="512px"/>
+
+<p>
+<a href="https://youtu.be/rIX9grP3Swk?si=kAVrbSkEMCaGbsMj">Click to see Smart Aircon Clothing</a>
+</p>
+
+<img src="https://i.imgur.com/MvenAIU.png" width="512px"/>
+<img src="https://i.imgur.com/7MyOpqm.png" width="512px"/>
+
+Our product is Smart Air Conditioning Belt With Intergrated Control App Bluetooth. 
+This features are:
+-Control and parameter settings through a Bluetooth-enabled smartphone.
+-Sustains usage time and adjusts fan speed according to the user's preference.
+-Measures body temperature and humidity (with 90% accuracy), allowing users to monitor these metrics  through the mobile app.
+-Equipped with a 8800mAh (milliampere per hour) battery capacity, providing 6-8 hours of usage.
+-Quick charging via USB port
+
+
+📊
 ---
 [![](https://visitcount.itsvg.in/api?id=ThienLe2112&icon=9&color=8)](https://visitcount.itsvg.in)
