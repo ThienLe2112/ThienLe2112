@@ -13,7 +13,7 @@ I love discovering technology from around the world. I have three years of exper
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThienLe2112&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️Projects
-<img src="https://imgur.com/p7afuf1" width="512px"/>
+<img src="https://i.imgur.com/p7afuf1.jpeg" width="512px"/>
 ![](Ra khơi)
 
 ### 😂Random Dev Meme
