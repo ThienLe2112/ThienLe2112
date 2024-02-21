@@ -20,7 +20,6 @@ I am a hardware engineer in the team participating in the following competitions
 <p>-Managers can easily compile statistics, manage, and regulate water allocation for specific residential areas.</p>
 
 ## FIBOT 2024 at Industrial University of Hochiminh city: 
-<img src="https://i.imgur.com/1FJJleY.png" width="1024px"/> 
 <img src="https://i.imgur.com/bGtuXck.png" width="512px"/>
 <img src="https://i.imgur.com/7Uszw7E.png" width="512px"/>
 <p>
