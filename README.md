@@ -1,4 +1,4 @@
-![image](https://github.com/ThienLe2112/ThienLe2112/assets/120434264/9246922e-4907-459f-8da4-72f6896ae6eb)![image](https://github.com/ThienLe2112/ThienLe2112/assets/120434264/13d90678-d9ab-4fe2-ad1c-f9b1ce12a79e)### Hi there 👋
+### Hi there 👋
 # 💫About Me :
 I love discovering technology from around the world. I have three years of experience in C programming and designing PCBs. Feel free to check out my profile to see what I do.
 
