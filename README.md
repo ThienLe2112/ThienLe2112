@@ -34,7 +34,6 @@ We have created a robot to solve mazes and compete against other teams in the Su
 
 ## Engineering Projects In Community Services 2023:
 <img src="https://i.imgur.com/1FJJleY.png" width="1024px"/> 
-<img src="https://i.imgur.com/p7afuf1.jpeg" width="1024px"/> 
 <img src="https://i.imgur.com/11hy9FN.png" width="512px"/>
 
 <p>
