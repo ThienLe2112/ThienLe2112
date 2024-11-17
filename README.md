@@ -21,7 +21,7 @@ I am a hardware and embedded engineer in the team participating in the following
 
 <a href="https://github.com/ThienLe2112/Skeleton-based-Action-Recognition">More detail.</a>
 
-## Engineering Projects In Community Services 2024:
+## First Prize in Engineering Projects In Community Services 2024:
 <img src="https://i.imgur.com/1FJJleY.png" width="1024px"/> 
 <img src="https://i.imgur.com/11hy9FN.png" width="512px"/>
 
